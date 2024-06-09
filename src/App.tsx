@@ -12,7 +12,7 @@ function App() {
     <Container>
       <Box>
         <Text mb="2rem" fontSize="27px" fontWeight="bold" textAlign="center">
-          Chores ToDo List
+          ToDo
         </Text>
       </Box>
       <TodoList
